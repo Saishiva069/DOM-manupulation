@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: normal;
+}
+
+button {
+    padding: 12px 35px;
+    margin-right: 15px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+#clear {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
+
+#error {
+    color: red;
+}
+hr {
+    width: 200px;
+    margin-left: 0;
+    border: 0;
+    border-top: 1px solid white;
+}
